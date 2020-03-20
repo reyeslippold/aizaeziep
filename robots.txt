@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohlohcong.kennyward.co.uk/sitemap.xml
